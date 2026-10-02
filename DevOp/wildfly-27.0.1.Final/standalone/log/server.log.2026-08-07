@@ -1,0 +1,19 @@
+2026-08-07 17:50:52,643 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-7) WFLYDS0013: Started FileSystemDeploymentService for directory C:\Rayssoftware\DevOp\wildfly-27.0.1.Final\standalone\deployments
+2026-08-07 17:50:54,090 INFO  [org.jboss.ws.common.management] (MSC service thread 1-1) JBWS022052: Starting JBossWS 6.1.0.Final (Apache CXF 3.5.2.jbossorg-4) 
+2026-08-07 17:50:54,287 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2026-08-07 17:50:54,291 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 27.0.1.Final (WildFly Core 19.0.1.Final) started in 38018ms - Started 290 of 563 services (357 services are lazy, passive or on-demand) - Server configuration file in use: standalone.xml
+2026-08-07 17:50:54,297 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2026-08-07 17:50:54,298 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
+2026-08-07 17:53:38,946 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0272: Suspending server
+2026-08-07 17:53:38,951 INFO  [org.jboss.as.ejb3] (Thread-1) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2026-08-07 17:53:38,961 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0220: Server shutdown has been requested via an OS signal
+2026-08-07 17:53:38,983 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-7) WFLYJCA0010: Unbound data source [java:jboss/datasources/ExampleDS]
+2026-08-07 17:53:38,998 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0019: Host default-host stopping
+2026-08-07 17:53:39,012 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-5) WFLYMAIL0002: Unbound mail session [java:jboss/mail/Default]
+2026-08-07 17:53:39,012 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0019: Stopped Driver service with driver-name = h2
+2026-08-07 17:53:39,016 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0008: Undertow HTTPS listener https suspending
+2026-08-07 17:53:39,015 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0008: Undertow HTTP listener default suspending
+2026-08-07 17:53:39,018 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0007: Undertow HTTPS listener https stopped, was bound to 127.0.0.1:8443
+2026-08-07 17:53:39,018 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-4) WFLYUT0007: Undertow HTTP listener default stopped, was bound to 127.0.0.1:8080
+2026-08-07 17:53:39,045 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0004: Undertow 2.3.0.Final stopping
+2026-08-07 17:53:39,052 INFO  [org.jboss.as] (MSC service thread 1-8) WFLYSRV0050: WildFly Full 27.0.1.Final (WildFly Core 19.0.1.Final) stopped in 21ms
